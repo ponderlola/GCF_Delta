@@ -1,7 +1,7 @@
 Private TSlibrary_array
 Private labcap_array
 Private band_array
-
+'Github is very unintuitive
 
 Sub EUTRAN_CA()
     'Get the needed testcase
